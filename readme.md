@@ -3,7 +3,7 @@
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-informational?style=for-the-badge&logo=proxmox&logoColor=white&color=E57000" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
   <img alt="git" src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
-  <img alt="wireguard" src="https://img.shields.io/badge/-Wireguard-informational?style=for-the-badge&logo=wireguard&logoColor=white&color=88171A" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Jetbrains" src="https://img.shields.io/badge/-Jetbrains-informational?style=for-the-badge&logo=jetbrains&logoColor=white&color=000000" />
   <br />
 
