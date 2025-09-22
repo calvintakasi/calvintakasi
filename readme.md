@@ -92,9 +92,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calvintakasi&show_icons=true&locale=en&layout=compact" alt="calvintakasi" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calvintakasi&show_icons=true&locale=en&layout=compact&hide_border=true" alt="calvintakasi" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calvintakasi&show_icons=true&locale=en" alt="calvintakasi" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calvintakasi&show_icons=true&locale=en&hide=issues,prs,contribs&hide_border=true" alt="calvintakasi" />
 </p>
