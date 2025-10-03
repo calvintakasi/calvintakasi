@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=calvintakasi&label=Profile%20views&color=0e75b6&style=flat" alt="calvintakasi" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=calvintakasi" alt="calvintakasi" />
-  </a> 
-</p>
-
 - 🔭 I’m currently working on [PG Buddy](https://github.com/calvintakasi/PG-Buddy)
 
 <h3 align="left">Connect with me:</h3>
