@@ -7,10 +7,9 @@
 
 - 🔭 I’m currently working on [PG Buddy](https://github.com/calvintakasi/PG-Buddy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3><span><p>
   📧 <a href="mailto:calvintakasi@outlook.com">calvintakasi@outlook.com</a>
-</p>
+</p></span>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
