@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Amir Vishwas</h1>
-<h3 align="center">Frontend Developer • Full-Stack Learner</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  I build clean, scalable, and user-friendly web applications.<br/>
-  Focused on real-world products and modern development practices.
+  I specialize in building clean, responsive, and scalable web applications.<br/>
+  Strong focus on modern UI/UX, performance optimization, and real-world problem solving.
 </p>
 
 <p align="center">
   🔭 Currently working on <b>
-    <a href="https://github.com/calvintakasi/PG-Buddy" target="_blank">
-      PG Buddy
-    </a>
+    <a href="https://github.com/calvintakasi/PG-Buddy" target="_blank">PG Buddy</a>
   </b>
 </p>
 
 ---
 
-<h3 align="center">📬 Connect with Me</h3>
+## 📬 Contact
 
 <p align="center">
   📧 <a href="mailto:calvintakasi@outlook.com">calvintakasi@outlook.com</a>
@@ -24,52 +22,39 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 
-<!-- GLASS CONTAINER -->
-<table align="center" cellpadding="14"
-  style="
-    background: rgba(255,255,255,0.08);
-    border-radius: 16px;
-    border: 1px solid rgba(255,255,255,0.18);
-    box-shadow: 0 8px 32px rgba(0,0,0,0.2);
-  ">
-<tr>
-<td align="center">
+### Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" />
+</p>
 
-<!-- FRONTEND -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+### Backend & Databases
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+</p>
 
-<br/><br/>
-
-<!-- BACKEND -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-
-<br/><br/>
-
-<!-- TOOLS & CLOUD -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-
-</td>
-</tr>
-</table>
+### Tools & Platforms
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/amazonwebservices-original.svg" width="40" />
+</p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
@@ -85,5 +70,5 @@
 ---
 
 <p align="center">
-  🚀 Learning • Building • Improving Every Day
+  ⭐ Continuously learning • Building impactful products • Improving every day
 </p>
