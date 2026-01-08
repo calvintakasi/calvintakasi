@@ -8,7 +8,7 @@
 
 <p align="center">
   🔭 Currently working on <b>
-    <a href="https://github.com/calvintakasi/PG-Buddy" target="_blank">PG Buddy</a>
+    <a href="https://pgbuddy1.vercel.app" target="_blank">PG Buddy</a>
   </b>
 </p>
 
