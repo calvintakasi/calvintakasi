@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amir Vishwas</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Developer | Web Enthusiast</h3>
 
 <p align="center">
-  I specialize in building clean, responsive, and scalable web applications.<br/>
-  Strong focus on modern UI/UX, performance optimization, and real-world problem solving.
+  I build clean, responsive, and scalable web applications with a strong focus on  
+  modern UI/UX, performance optimization, and real-world problem solving.
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" />
 </p>
 
-### Backend & Databases
+### 🧠 Backend & Databases
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
@@ -44,12 +44,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
 </p>
 
-### Tools & Platforms
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+</p>
+
+<p align="center">
+  <b>AWS Services:</b> EC2 • S3 • Elastic Beanstalk • VPC
+</p>
+
+### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/amazonwebservices-original.svg" width="40" />
 </p>
 
 ---
