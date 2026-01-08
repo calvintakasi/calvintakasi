@@ -44,9 +44,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" width="40" />
 </p>
 
 <p align="center">
