@@ -46,7 +46,7 @@
 
 ### ☁️ Cloud
 <p align="center">
-  <img src="https://www.svgrepo.com/show/448266/aws.svg" width="40" />
+  <img src="https://www.svgrepo.com/show/331300/aws.svg" width="40" />
 </p>
 
 <p align="center">
